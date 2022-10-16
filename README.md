@@ -30,4 +30,4 @@
 
 ### Демо
 
-![Basic level](./assets/advanced.gif)
+![Advanced level](./assets/advanced.gif)
